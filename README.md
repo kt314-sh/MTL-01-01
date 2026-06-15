@@ -18,7 +18,7 @@ Designed to work in [MeshCore](https://github.com/meshcore-dev ), [Meshtastic](h
 
  The device has proven itself well as a repeater and bridge 868/433
  
- <img src="03-pic/Node-01.jpg" alt="rpt1" width="20%"> <img src="03-pic/bridge-1.jpg" alt="rpt2" width="20%"> <img src="03-pic/bridge-2.jpg" alt="rpt3" width="20%">
+ <img src="03-pic/Node-01.jpg" alt="rpt1" width="10%"> <img src="03-pic/bridge-1.jpg" alt="rpt2" width="20%"> <img src="03-pic/bridge-2.jpg" alt="rpt3" width="20%"> 
 
 ### MTL-1 is available in three versions
 
@@ -73,10 +73,18 @@ To use IPEX, the "R18" jumper must be removed
 Download driver [CH340.exe](https://www.wch-ic.com/downloads/CH341SER_EXE.html) [CH340.zip](https://www.wch-ic.com/downloads/CH341SER_ZIP.html) or [Github](https://github.com/jayfourjavier/INSTALL-CH340-ON-WINDOWS-11)
 
 
+### Case
+
+А good sealed casing made of Plastic sewer pipe with a diameter of 40-50mm
+
+<img src="03-pic/Case-1.jpg" alt="case1" width="20%">
+
+
+### Repiters in use
+
+<img src="03-pic/RPT-1.jpg" alt="rpt1" width="20%"> <img src="03-pic/RPT-2.jpg" alt="rpt2" width="20%">
 
 
 
-
-
-For a full description, see the link
+Additiona description, see the link
 https://github.com/vy52am0u/MTL

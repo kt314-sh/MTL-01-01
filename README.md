@@ -18,7 +18,7 @@ Designed to work in [MeshCore](https://github.com/meshcore-dev ), [Meshtastic](h
 
  The device has proven itself well as a repeater and bridge 868/433
  
- <img src="03-pic/Node-01.jpg" alt="rpt1" width="20%">
+ <img src="03-pic/Node-01.jpg" alt="rpt1" width="20%"> <img src="03-pic/bridge-1.jpg" alt="rpt2" width="20%"> <img src="03-pic/bridge-2.jpg" alt="rpt3" width="20%">
 
 ### MTL-1 is available in three versions
 

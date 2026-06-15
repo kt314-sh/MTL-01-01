@@ -7,7 +7,18 @@
   # MTL-1
 MTL-1 is a LoRa project based on ESP-32 s3 modules and [Ebyte](https://www.ebyte.com/) modules such as E22-xxxM30S, E22p-xxxM30S, E220-xxxM30S, E22-xxxM33S
 Designed to work in [MeshCore](https://github.com/meshcore-dev ), [Meshtastic](https://github.com/meshtastic ), as a client and repeater.
- The project is almost fully compatible with Heltec v3, Heltec WSL3.
+- The project is almost fully compatible with Heltec v3, Heltec WSL3.
+- 1A Standalone Linear Li-Ion Battery Charger
+- Battery protection lithium-ion/polymer battery
+- DC/DC up to 5V
+- SMA connector
+- GPIO
+- 2 button. RESET, BOOT
+
+
+ The device has proven itself well as a repeater and bridge 868/433
+ 
+ <img src="03-pic/Node-01.jpg" alt="rpt1" width="20%">
 
 ### MTL-1 is available in three versions
 
@@ -41,7 +52,7 @@ The main power supply of the MTL-1 is provided via the "USB-C" or "X5" connector
 ### Additional IO
 Available IO: 2, 3, 4, 5, 6, 7, 19, 20, 38, 39, 40, 41, 42, 45, 46, 47, 48
 
-<img src="03-pic/IO2.PNG" alt="mtlio1" width="20%"> <img src="03-pic/UART.jpg" alt="mtluart" width="20%">
+<img src="03-pic/IO2.png" alt="mtlio1" width="20%"> <img src="03-pic/UART.jpg" alt="mtluart" width="20%">
 
 ### Connecting the antenna to IPEX
 To use IPEX, the "R18" jumper must be removed
@@ -56,6 +67,11 @@ To use IPEX, the "R18" jumper must be removed
 - D	i2c-SDA
 
 <img src="03-pic/oled1.png" alt="mtloled1" width="20%">  <img src="03-pic/oled2.png" alt="mtloled2" width="20%">
+
+### Driver CH340
+
+Download driver [CH340.exe](https://www.wch-ic.com/downloads/CH341SER_EXE.html) [CH340.zip](https://www.wch-ic.com/downloads/CH341SER_ZIP.html) or [Github](https://github.com/jayfourjavier/INSTALL-CH340-ON-WINDOWS-11)
+
 
 
 

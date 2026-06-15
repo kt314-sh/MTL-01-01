@@ -72,11 +72,30 @@ To use IPEX, the "R18" jumper must be removed
 
 Download driver [CH340.exe](https://www.wch-ic.com/downloads/CH341SER_EXE.html) [CH340.zip](https://www.wch-ic.com/downloads/CH341SER_ZIP.html) or [Github](https://github.com/jayfourjavier/INSTALL-CH340-ON-WINDOWS-11)
 
+### Frequency range
+#### 150-170Mhz
+- e22-170m30s    SX1268  30dBm
+
+#### 430Mhz
+- e22p-433m30s   SX1268  30dBm
+- e22-400m30s    SX1268  30dBm
+- e22-400m33s    SX1268  33dBm
+<img src="03-pic/e22p-433m30s.jpg" alt="mtle22p433" width="20%">
+
+
+#### 868-915Mhz
+- e22p-868m30s   SX1262  31dBm  (Compatible with Heltec v3, Heltec WSL3)
+- e22p-915m30s   SX1262  31dBm  (Compatible with Heltec v3, Heltec WSL3) 
+- e22-900m30s    SX1262  30dBm  (Compatible with Heltec v3, Heltec WSL3)
+- e22-900m33s    SX1262  33dBm
+
+<img src="03-pic/e22p-868m30s.jpg" alt="mtle22p868" width="20%">
 
 ### Case
 
 - А good sealed casing made of Plastic sewer pipe with a diameter of 40-50mm
 - The rainproof modem box VT-BOX9 with the antenna MOXON
+- Rainproof case for Bridge Z10-7 158х90х60
 
 <img src="03-pic/Case-1.jpg" alt="case1" width="16%"> <img src="03-pic/Case-2.jpg" alt="case2" width="29%"> <img src="03-pic/Case-3.jpg" alt="case3" width="20%">
 
@@ -84,6 +103,15 @@ Download driver [CH340.exe](https://www.wch-ic.com/downloads/CH341SER_EXE.html) 
 ### Repiters in use
 
 <img src="03-pic/RPT-1.jpg" alt="rpt1" width="20%"> <img src="03-pic/RPT-2.jpg" alt="rpt2" width="15%"> <img src="03-pic/RPT-3.jpg" alt="rpt3" width="20%"> <img src="03-pic/RPT-4.jpg" alt="rpt4" width="20%">
+
+## Documentation
+- GERBER [files](\01-PCB\Fabrication)
+- Pick and Place [files](\01-PCB)
+- Interactive scheme [BoM](\01-PCB)
+- Datasheet [files](\02-datasheet)
+- 3d model [STEP files](\04-3dmod)
+- Mounting plate for case [Z10-7 158х90х60](\05-case\01-bridge)
+  
 
 
 ### MeshCore SPB

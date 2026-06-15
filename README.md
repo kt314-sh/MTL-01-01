@@ -111,6 +111,7 @@ Download driver [CH340.exe](https://www.wch-ic.com/downloads/CH341SER_EXE.html) 
 - Datasheet [files](\02-datasheet)
 - 3d model [STEP files](\04-3dmod)
 - Mounting plate for case [Z10-7 158х90х60](\05-case\01-bridge)
+- Instructions [RU](MTL-1_manual_04.2026.pdf)
   
 
 

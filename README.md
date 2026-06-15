@@ -75,16 +75,17 @@ Download driver [CH340.exe](https://www.wch-ic.com/downloads/CH341SER_EXE.html) 
 
 ### Case
 
-А good sealed casing made of Plastic sewer pipe with a diameter of 40-50mm
+- А good sealed casing made of Plastic sewer pipe with a diameter of 40-50mm
+- The rainproof modem box VT-BOX9 with the antenna MOXON
 
-<img src="03-pic/Case-1.jpg" alt="case1" width="20%">
+<img src="03-pic/Case-1.jpg" alt="case1" width="16%"> <img src="03-pic/Case-2.jpg" alt="case2" width="29%"> <img src="03-pic/Case-3.jpg" alt="case3" width="20%">
 
 
 ### Repiters in use
 
-<img src="03-pic/RPT-1.jpg" alt="rpt1" width="20%"> <img src="03-pic/RPT-2.jpg" alt="rpt2" width="20%">
+<img src="03-pic/RPT-1.jpg" alt="rpt1" width="20%"> <img src="03-pic/RPT-2.jpg" alt="rpt2" width="15%"> <img src="03-pic/RPT-3.jpg" alt="rpt3" width="20%"> <img src="03-pic/RPT-4.jpg" alt="rpt4" width="20%">
 
 
 
-Additiona description, see the link
+Additional description, see the link
 https://github.com/vy52am0u/MTL

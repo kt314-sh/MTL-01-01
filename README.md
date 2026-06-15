@@ -86,6 +86,9 @@ Download driver [CH340.exe](https://www.wch-ic.com/downloads/CH341SER_EXE.html) 
 <img src="03-pic/RPT-1.jpg" alt="rpt1" width="20%"> <img src="03-pic/RPT-2.jpg" alt="rpt2" width="15%"> <img src="03-pic/RPT-3.jpg" alt="rpt3" width="20%"> <img src="03-pic/RPT-4.jpg" alt="rpt4" width="20%">
 
 
+### MeshCore SPB
+- [MeshCore SPB](https://meshcore.spb.ru)
+- [Telegram MeshCore SPB](https://t.me/meshcore_petersburg)
 
 Additional description, see the link
 https://github.com/vy52am0u/MTL

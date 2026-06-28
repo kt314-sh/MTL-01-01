@@ -77,9 +77,9 @@ Download driver [CH340.exe](https://www.wch-ic.com/downloads/CH341SER_EXE.html) 
 - e22-170m30s    SX1268  30dBm
 
 #### 430Mhz
-- e22p-433m30s   SX1268  30dBm
-- e22-400m30s    SX1268  30dBm
-- e22-400m33s    SX1268  33dBm
+- e22p-433m30s   SX1268          30dBm
+- e22-400m30s    SX1262, SX1268  30dBm (If S1262 Compatible with Heltec v3, Heltec WSL3)
+- e22-400m33s    SX1268          33dBm
 <img src="03-pic/e22p-433m30s.jpg" alt="mtle22p433" width="20%">
 
 

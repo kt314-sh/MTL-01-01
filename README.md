@@ -97,7 +97,7 @@ Download driver [CH340.exe](https://www.wch-ic.com/downloads/CH341SER_EXE.html) 
 - The rainproof modem box VT-BOX9 with the antenna MOXON
 - Rainproof case for Bridge Z10-7 158х90х60
 
-<img src="03-pic/Case-1.jpg" alt="case1" width="16%"> <img src="03-pic/Case-2.jpg" alt="case2" width="29%"> <img src="03-pic/Case-3.jpg" alt="case3" width="20%">
+<img src="03-pic/Case-1.jpg" alt="case1" width="16%"> <img src="03-pic/Case-2.jpg" alt="case2" width="29%"> <img src="03-pic/Case-3.jpg" alt="case3" width="20%"> <img src="03-pic/CaseTube-01.png" alt="CaseTube40mm" width="22%">
 
 
 ### Repiters in use
@@ -112,11 +112,13 @@ Download driver [CH340.exe](https://www.wch-ic.com/downloads/CH341SER_EXE.html) 
 - 3d model [STEP files](\04-3dmod)
 - Mounting plate for case [Z10-7 158х90х60](\05-case\01-bridge)
 - Instructions [RU](MTL-1_manual_04.2026.pdf)
-  
+
+## Firmware
+- MeshCore SPB [Experimental firmware](https://meshcore.spb.ru/wiki/experiment)
 
 
 ### MeshCore SPB
-- [MeshCore SPB](https://meshcore.spb.ru)
+- [MeshCore SPB by Alex XXX](https://meshcore.spb.ru)
 - [Telegram MeshCore SPB](https://t.me/meshcore_petersburg)
 
 Additional description, see the link
